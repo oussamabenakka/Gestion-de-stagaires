@@ -1,0 +1,8 @@
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\stagaire\bin\Debug\netstandard2.0\stagaire.deps.json
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\stagaire\bin\Debug\netstandard2.0\stagaire.dll
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\stagaire\bin\Debug\netstandard2.0\stagaire.pdb
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\stagaire\obj\Debug\netstandard2.0\stagaire.csprojAssemblyReference.cache
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\stagaire\obj\Debug\netstandard2.0\stagaire.AssemblyInfoInputs.cache
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\stagaire\obj\Debug\netstandard2.0\stagaire.AssemblyInfo.cs
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\stagaire\obj\Debug\netstandard2.0\stagaire.dll
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\stagaire\obj\Debug\netstandard2.0\stagaire.pdb

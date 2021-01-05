@@ -1,0 +1,16 @@
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\bin\Debug\Gestion de stagaires.exe.config
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\bin\Debug\Gestion de stagaires.exe
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\bin\Debug\Gestion de stagaires.pdb
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\obj\Debug\Gestion_de_stagaires.Form1.resources
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\obj\Debug\Gestion_de_stagaires.Properties.Resources.resources
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\obj\Debug\Gestion de stagaires.csproj.GenerateResource.cache
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\obj\Debug\Gestion de stagaires.exe
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\obj\Debug\Gestion de stagaires.pdb
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\obj\Debug\Gestion_de_stagaires.Effacer.resources
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\obj\Debug\Gestion_de_stagaires.Rechercher.resources
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\obj\Debug\Gestion_de_stagaires.Afficher.resources
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\obj\Debug\Gestion de stagaires.csprojAssemblyReference.cache
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\bin\Debug\stagaire.dll
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\bin\Debug\stagaire.pdb
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\obj\Debug\Gestion de stagaires.csproj.CopyComplete
+C:\Users\OUSSAMA\Desktop\Gestion de stagaires\obj\Debug\Gestion_de_stagaires.Saisie.resources
